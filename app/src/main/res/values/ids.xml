@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_infomation" type="id" />
+    <item name="btn_edit" type="id" />
+    <item name="btn_delete" type="id" />
+    <item name="img_avt" type="id" />
+    <item name="tv_name" type="id" />
+    <item name="tv_topic" type="id" />
+    <item name="img_phone" type="id" />
+    <item name="tv_phone" type="id" />
+    <item name="tv_mobile" type="id" />
+    <item name="img_email" type="id" />
+    <item name="tv_email" type="id" />
+    <item name="tv_personal" type="id" />
+    <item name="img_birthday" type="id" />
+    <item name="tv_date" type="id" />
+    <item name="tv_birthday" type="id" />
+</resources>
